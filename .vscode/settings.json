@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "emmet.syntaxProfiles": {
+    
+    },
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ]
+}
